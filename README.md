@@ -1,7 +1,7 @@
 # PicoStuff
 Feeling Pico, might delete later idk.
 
-To build, you .Net Core is required. Then run `dotnet build` in the project folder.
+To build, .Net Core is required. Then run `dotnet build` in the project folder.
 
 ## What It Is
 Basically, it's a chunk parser/extractor for `pico8.dat`. I suppose this readme will also contain any information I've discovered about the contents or format.
